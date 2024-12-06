@@ -1,0 +1,15 @@
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\bin\Debug\net8.0\TesteLogicaBenner.exe
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\bin\Debug\net8.0\TesteLogicaBenner.deps.json
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\bin\Debug\net8.0\TesteLogicaBenner.runtimeconfig.json
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\bin\Debug\net8.0\TesteLogicaBenner.dll
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\bin\Debug\net8.0\TesteLogicaBenner.pdb
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\obj\Debug\net8.0\TesteLogicaBenner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\obj\Debug\net8.0\TesteLogicaBenner.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\obj\Debug\net8.0\TesteLogicaBenner.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\obj\Debug\net8.0\TesteLogicaBenner.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\obj\Debug\net8.0\TesteLogicaBenner.sourcelink.json
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\obj\Debug\net8.0\TesteLogicaBenner.dll
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\obj\Debug\net8.0\refint\TesteLogicaBenner.dll
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\obj\Debug\net8.0\TesteLogicaBenner.pdb
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\obj\Debug\net8.0\TesteLogicaBenner.genruntimeconfig.cache
+C:\Users\Matheus\source\repos\TesteLogicaBenner\TesteLogicaBenner\obj\Debug\net8.0\ref\TesteLogicaBenner.dll

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\source\\repos\\TesteLogicaBenner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF2BFC-70F3-4510-839B-0DA24047C493}|TesteLogicaBenner\\TesteLogicaBenner.csproj|c:\\users\\matheus\\source\\repos\\testelogicabenner\\testelogicabenner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF2BFC-70F3-4510-839B-0DA24047C493}|TesteLogicaBenner\\TesteLogicaBenner.csproj|solutionrelative:testelogicabenner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF2BFC-70F3-4510-839B-0DA24047C493}|TesteLogicaBenner\\TesteLogicaBenner.csproj|c:\\users\\matheus\\source\\repos\\testelogicabenner\\testelogicabenner\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF2BFC-70F3-4510-839B-0DA24047C493}|TesteLogicaBenner\\TesteLogicaBenner.csproj|solutionrelative:testelogicabenner\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF2BFC-70F3-4510-839B-0DA24047C493}|TesteLogicaBenner\\TesteLogicaBenner.csproj|c:\\users\\matheus\\source\\repos\\testelogicabenner\\testelogicabenner\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0EEF2BFC-70F3-4510-839B-0DA24047C493}|TesteLogicaBenner\\TesteLogicaBenner.csproj|solutionrelative:testelogicabenner\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF2BFC-70F3-4510-839B-0DA24047C493}|TesteLogicaBenner\\TesteLogicaBenner.csproj|c:\\users\\matheus\\source\\repos\\testelogicabenner\\testelogicabenner\\testelogicabenner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EEF2BFC-70F3-4510-839B-0DA24047C493}|TesteLogicaBenner\\TesteLogicaBenner.csproj|solutionrelative:testelogicabenner\\testelogicabenner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF2BFC-70F3-4510-839B-0DA24047C493}|TesteLogicaBenner\\TesteLogicaBenner.csproj|c:\\users\\matheus\\source\\repos\\testelogicabenner\\testelogicabenner\\negativenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF2BFC-70F3-4510-839B-0DA24047C493}|TesteLogicaBenner\\TesteLogicaBenner.csproj|solutionrelative:testelogicabenner\\negativenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TesteLogicaBenner",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\TesteLogicaBenner\\TesteLogicaBenner\\TesteLogicaBenner.csproj",
+              "RelativeDocumentMoniker": "TesteLogicaBenner\\TesteLogicaBenner.csproj",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\TesteLogicaBenner\\TesteLogicaBenner\\TesteLogicaBenner.csproj",
+              "RelativeToolTip": "TesteLogicaBenner\\TesteLogicaBenner.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T06:49:37.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\TesteLogicaBenner\\TesteLogicaBenner\\README.txt",
+              "RelativeDocumentMoniker": "TesteLogicaBenner\\README.txt",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\TesteLogicaBenner\\TesteLogicaBenner\\README.txt",
+              "RelativeToolTip": "TesteLogicaBenner\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-06T06:45:03.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NegativeNumberException.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\TesteLogicaBenner\\TesteLogicaBenner\\NegativeNumberException.cs",
+              "RelativeDocumentMoniker": "TesteLogicaBenner\\NegativeNumberException.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\TesteLogicaBenner\\TesteLogicaBenner\\NegativeNumberException.cs",
+              "RelativeToolTip": "TesteLogicaBenner\\NegativeNumberException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:58:35.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Network.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\TesteLogicaBenner\\TesteLogicaBenner\\Network.cs",
+              "RelativeDocumentMoniker": "TesteLogicaBenner\\Network.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\TesteLogicaBenner\\TesteLogicaBenner\\Network.cs",
+              "RelativeToolTip": "TesteLogicaBenner\\Network.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:28:55.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\TesteLogicaBenner\\TesteLogicaBenner\\Program.cs",
+              "RelativeDocumentMoniker": "TesteLogicaBenner\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\TesteLogicaBenner\\TesteLogicaBenner\\Program.cs",
+              "RelativeToolTip": "TesteLogicaBenner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:27:41.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
